@@ -1,3 +1,5 @@
+Version of d2-tools to use only for d2-multivisualization 
+
 ## Setup
 
 The required node version is v16.14.0. Alternatively, you can run:
