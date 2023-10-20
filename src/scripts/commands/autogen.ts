@@ -7,7 +7,7 @@ import { getApiUrlOption, getD2Api } from "scripts/common";
 export function getCommand() {
     const migrateConfig = command({
         name: "migrate-config",
-        description: "migrate d2-auto-generated forms config",
+        description: "Migrate d2-auto-generated forms config",
         args: {
             url: getApiUrlOption(),
         },
